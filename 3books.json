@@ -1,0 +1,40 @@
+
+[
+
+    {
+
+        "Title": "Harry Potter and the Sorcerer's Stone",
+
+        "Authors": "J.K.Rowling",
+
+        "Publisher": "Scholastic Corporation",
+
+        "Genre": "Fantasy Literature"
+
+    },
+
+    {
+
+        "Title": "Homo Deus: A Brief History of Tomorrow",
+
+        "Authors": "Yuval Noah Harari",
+
+        "Publisher": "Harvill Secker",
+
+        "Genre": "Non-fiction"
+
+    },
+
+    {
+
+        "Title": "Rich Dad, Poor Dad",
+
+        "Authors": "Robert Kiyosaki",
+
+        "Publisher": "Warner Books Ed",
+
+        "Genre": "Personal Finance"
+
+    }
+
+]
